@@ -36,7 +36,7 @@ const config = {
     PREFIX: '.',
     MAX_RETRIES: 3,
     IMAGE_PATH: 'https://d.uguu.se/wzeRyoPa.jpg',
-    GROUP_INVITE_LINK: '',
+    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/HKHFUb0ThuzKF8AoPztVjZ?mode=gi_t',
     ADMIN_LIST_PATH: './admin.json',
     RCD_IMAGE_PATH: 'https://d.uguu.se/wzeRyoPa.jpg',
     _JID: '120363421253418589@newsletter',
@@ -1402,16 +1402,16 @@ ${config.PREFIX}ᴀʟʟᴍᴇɴᴜ ᴛᴏ ᴠɪᴇᴡ ᴀʟʟ ᴄᴍᴅs
 
                         // Create description
                         const desc = `
-     *GAGA-MD Mini
-╭───────────────⭓
+     *GAGA-MD Mini*
+╭───────────────⭓*
 │ ᴛɪᴛʟᴇ: ${videoInfo.title}
 │ ᴀʀᴛɪsᴛ: ${videoInfo.author.name}
 │ ᴅᴜʀᴀᴛɪᴏɴ: ${formattedDuration}
 │ ᴜᴘʟᴏᴀᴅᴇᴅ: ${videoInfo.ago}
 │ ᴠɪᴇᴡs: ${videoInfo.views.toLocaleString()}
-│ Format: ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴍᴘ3
+│ Format: ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴍᴘ3*
 ╰───────────────⭓
-> *MADE IN BY TRAXXION GAGA*
+> *MADE IN ZIMBABWE🇿🇼 BY TRAXXION GAGA*
 `;
 
                         // Send video info
